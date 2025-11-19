@@ -1,23 +1,43 @@
-# Conceptos Básicos de Programación en Java
+Conceptos Básicos de Programación en Java
 
-Este repositorio reúne ejemplos y ejercicios prácticos sobre los fundamentos del lenguaje **Java**, enfocados en el aprendizaje de estructuras básicas, lógica de programación y operaciones fundamentales.
+Este repositorio reúne ejemplos y ejercicios prácticos sobre los fundamentos del lenguaje Java.
+Incluye programas simples que permiten aprender operaciones básicas, entrada y salida de datos, estructuras elementales y lógica de programación.
 
----
+Requisitos
 
-## Contenido del repositorio
+Java 17
 
-| Archivo | Descripción |
-|----------|--------------|
-| **HelloWorld.java** | Imprime un mensaje de saludo en la consola. Es el clásico “Hola Mundo” en Java. |
-| **HelloGoodbye.java** | Solicita nombres y muestra mensajes de saludo y despedida personalizados. |
-| **RightTriangle.java** | Calcula la hipotenusa de un triángulo rectángulo a partir de los catetos ingresados. |
-| **GreatCircle.java** | Calcula la distancia entre dos puntos sobre una esfera (como coordenadas geográficas). |
-| **CMYKtoRGB.java** | Convierte valores de color del modelo **CMYK** a su equivalente en el modelo **RGB**. |
+IntelliJ IDEA (o cualquier IDE para Java)
 
----
+Git (opcional, para clonar el repositorio)
 
-## Cómo ejecutar los programas
+Ejecución
 
-1. **Clonar el repositorio**
-   ```bash
-git clone https://github.com/JonnathanSegura/conceptos-basicos-programacion-java.git
+Clonar el repositorio
+
+Abrir la carpeta en IntelliJ
+
+Abrir el archivo .java que deseas ejecutar (por ejemplo HelloWorld.java)
+
+Ejecutar el método main desde el botón Run del IDE
+
+También puedes ejecutar los programas desde la terminal, por ejemplo:
+
+javac HelloWorld.java
+java HelloWorld
+
+Archivos principales
+
+HelloWorld.java → Imprime un saludo en consola
+
+HelloGoodbye.java → Solicita datos y muestra mensajes personalizados
+
+RightTriangle.java → Calcula la hipotenusa de un triángulo rectángulo
+
+GreatCircle.java → Calcula la distancia entre dos puntos en una esfera
+
+CMYKtoRGB.java → Convierte un color del modelo CMYK a RGB
+
+Autor
+
+Jonnathan Rosero Segura
