@@ -1,7 +1,7 @@
 Conceptos Básicos de Programación en Java
 
-Este repositorio reúne ejemplos y ejercicios prácticos sobre los fundamentos del lenguaje Java.
-Incluye programas simples que permiten aprender operaciones básicas, entrada y salida de datos, estructuras elementales y lógica de programación.
+Este repositorio contiene ejercicios simples para aprender los conceptos básicos del lenguaje Java.
+Incluye programas independientes que permiten practicar operaciones básicas, entrada y salida de datos, conversión de valores y cálculos matemáticos.
 
 Requisitos
 
@@ -17,9 +17,9 @@ Clonar el repositorio
 
 Abrir la carpeta en IntelliJ
 
-Abrir el archivo .java que deseas ejecutar (por ejemplo HelloWorld.java)
+Abrir el archivo .java que deseas ejecutar
 
-Ejecutar el método main desde el botón Run del IDE
+Ejecutar el método main desde el botón Run
 
 También puedes ejecutar los programas desde la terminal, por ejemplo:
 
@@ -30,7 +30,7 @@ Archivos principales
 
 HelloWorld.java → Imprime un saludo en consola
 
-HelloGoodbye.java → Solicita datos y muestra mensajes personalizados
+HelloGoodbye.java → Solicita nombres y muestra mensajes personalizados
 
 RightTriangle.java → Calcula la hipotenusa de un triángulo rectángulo
 
