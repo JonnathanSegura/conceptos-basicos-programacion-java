@@ -1,9 +1,8 @@
-## Conceptos Básicos de Programación en Java
+# Conceptos Básicos de Programación en Java
 
-Este repositorio contiene ejercicios simples para aprender los conceptos básicos del lenguaje Java.
-Incluye programas independientes que permiten practicar operaciones básicas, entrada y salida de datos, conversión de valores y cálculos matemáticos.
+Este repositorio contiene ejercicios simples para aprender los conceptos básicos del lenguaje Java. Incluye programas independientes que permiten practicar operaciones básicas, entrada y salida de datos, conversión de valores y cálculos matemáticos.
 
-# Requisitos
+## Requisitos
 
 Java 17
 
@@ -11,7 +10,7 @@ IntelliJ IDEA (o cualquier IDE para Java)
 
 Git (opcional, para clonar el repositorio)
 
-# Ejecución
+## Ejecución
 
 Clonar el repositorio
 
@@ -26,7 +25,7 @@ También puedes ejecutar los programas desde la terminal, por ejemplo:
 javac HelloWorld.java
 java HelloWorld
 
-# Archivos principales
+## Archivos principales
 
 HelloWorld.java → Imprime un saludo en consola
 
@@ -38,6 +37,6 @@ GreatCircle.java → Calcula la distancia entre dos puntos en una esfera
 
 CMYKtoRGB.java → Convierte un color del modelo CMYK a RGB
 
-## Autor
+# Autor
 
 Jonnathan Rosero Segura
